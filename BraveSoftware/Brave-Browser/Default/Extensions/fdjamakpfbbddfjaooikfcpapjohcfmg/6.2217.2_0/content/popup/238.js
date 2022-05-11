@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_dashlane_popup=self.webpackChunk_dashlane_popup||[]).push([[238],{238:(e,a)=>{Object.defineProperty(a,"__esModule",{value:!0}),a.default=function(e,a,t,d){return p[e]};var p={lastWeek:"'oldingi' eeee p 'da'",yesterday:"'kecha' p 'da'",today:"'bugun' p 'da'",tomorrow:"'ertaga' p 'da'",nextWeek:"eeee p 'da'",other:"P"};e.exports=a.default}}]);

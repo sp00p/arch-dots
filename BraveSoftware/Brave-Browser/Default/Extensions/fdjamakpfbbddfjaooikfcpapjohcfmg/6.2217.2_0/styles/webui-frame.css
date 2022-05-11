@@ -1,0 +1,51 @@
+iframe.kw-iframe {
+  z-index: 2147483647 !important;
+  border: 0;
+  display: block !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  visibility: visible !important;
+  clip-path: none !important;
+  clip: auto !important;
+  mask: none !important;
+  -webkit-mask: none !important;
+  filter: none !important;
+  pointer-events: auto !important;
+  resize: none !important;
+  rotate: none !important;
+  border-radius: 8px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+}
+
+iframe.kw-iframe-dropdown {
+  position: absolute !important;
+  min-width: 224px !important;
+  max-width: 700px !important;
+  min-height: 35px !important;
+  max-height: 700px !important;
+  border-radius: 0px 0px 8px 8px;
+  opacity: 0;
+  transform: translateY(-5px);
+  transition: transform 133ms ease-out, opacity 133ms ease-in;
+}
+iframe.kw-iframe-dropdown.active {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+iframe.kw-iframe-popup {
+  min-width: 224px !important;
+  max-width: 424px !important;
+  min-height: 100px !important;
+  max-height: 700px !important;
+  margin-bottom: 20px !important;
+  transform: scale(0.2);
+  opacity: 0;
+  transition-property: transform, opacity;
+  transition-timing-function: ease-out;
+  transition-duration: 0.4s;
+}
+iframe.kw-iframe-popup.active {
+  transform: scale(1);
+  opacity: 1;
+}

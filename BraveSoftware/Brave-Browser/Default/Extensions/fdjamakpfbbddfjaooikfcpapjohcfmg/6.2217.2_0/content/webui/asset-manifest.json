@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "./static/css/main.css",
+    "main.js": "./static/js/main.js",
+    "index.html": "./index.html",
+    "static/js/main.js.LICENSE": "./static/js/main.js.LICENSE",
+    "static/media/index.scss": "./static/media/apercu-mono-regular-pro.1a9df291.otf",
+    "static/media/SemiFancySelectionItem.module.scss": "./static/media/tax_number.7764431f.svg",
+    "static/media/dashlane_logo.3e60f039.svg": "./static/media/dashlane_logo.3e60f039.svg"
+  },
+  "entrypoints": [
+    "static/css/main.css",
+    "static/js/main.js"
+  ]
+}

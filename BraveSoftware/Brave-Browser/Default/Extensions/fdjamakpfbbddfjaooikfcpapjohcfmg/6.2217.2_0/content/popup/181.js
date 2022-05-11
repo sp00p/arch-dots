@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_dashlane_popup=self.webpackChunk_dashlane_popup||[]).push([[181],{80181:(e,p)=>{Object.defineProperty(p,"__esModule",{value:!0}),p.default=function(e,p,a,u){return t[e]};var t={lastWeek:"先週のeeeeのp",yesterday:"昨日のp",today:"今日のp",tomorrow:"明日のp",nextWeek:"翌週のeeeeのp",other:"P"};e.exports=p.default}}]);

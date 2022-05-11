@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <title>Dashlane Extension</title>
+    <link rel="stylesheet" href="options.css" />
+</head>
+
+<body>
+    <div class="card">
+        <h1>
+            <img id="logo" alt="Dashlane Logo" />
+            <span id="extension-name"></span>
+        </h1>
+
+        <form id="permissions-form" class="hidden">
+            <h2>Permissions</h2>
+
+            <label class="checkbox-field">
+                <input type="checkbox" class="toggle-input sr-only" name="usage-consent" id="usage-consent" />
+                <div class="checkbox-item"></div>
+                <span>Collect usage data</span>
+            </label>
+        </form>
+
+        <form id="autofill-selector-form" class="hidden">
+            <h2>Autofill Engine Selection</h2>
+
+            <div class="browser-style">
+                <div class="radio-item">
+                    <input type="radio" name="autofill-engine" id="autofill-engine" />
+                    <label for="autofill-engine"></label>
+                    <label for="autofill-engine">New Autofill Experience Engine</label>
+                </div>
+                <p class="radio-item-description">
+                    Use the new autofill experience engine.
+                </p>
+
+                <div class="radio-item">
+                    <input type="radio" name="autofill-engine" id="maverick" />
+                    <label for="maverick"></label>
+                    <label for="maverick">Legacy Autofill Experience Engine</label>
+                </div>
+                <p class="radio-item-description">
+                    Use the legacy autofill experience engine.
+                </p>
+            </div>
+
+
+            <div>
+                <button class="browser-style" type="submit">Save changes</button>
+                <span id="confirm-engine-changed" class="hidden" style="font-style: italic; color: green;">
+                    Saved
+                </span>
+            </div>
+        </form>
+
+        <h2>Extension information</h2>
+        <ul>
+            <li>
+                <p>Version:<span class="version-info" id="version"></span></p>
+            </li>
+            <li>
+                <p>Manifest Version:<span class="version-info" id="manifest-version"></span></p>
+            </li>
+            <li>
+                <p>Browser Name:<span class="version-info" id="browser-name"></span></p>
+            </li>
+            <li>
+                <p>Browser Version:<span class="version-info" id="browser-version"></span></p>
+            </li>
+        </ul>
+    </div>
+</body>
+
+<script src="options.js"></script>
+
+</html>

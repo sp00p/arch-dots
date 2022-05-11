@@ -1,0 +1,370 @@
+
+
+================= Starting Debug Log (2022-05-05 01:01:29.385) =================
+[2022-05-05 01:01:30.173][CONSOLE:LOG] [BetterDiscord] [DevTools] Enabled
+[2022-05-05 01:01:31.511][CONSOLE:LOG] [BetterDiscord] [ReactDevTools] Enabled
+[2022-05-05 01:01:34.441][CONSOLE:LOG] [BetterDiscord] [ReactDevTools] Disabled
+[2022-05-05 01:01:38.685][CONSOLE:LOG] Stopp en hal!
+[2022-05-05 01:01:38.686][CONSOLE:LOG] Hvis noen har bedt deg om å kopiere / lime inn noe her, er sjansen 11/10 for at du blir lurt.
+[2022-05-05 01:01:38.686][CONSOLE:LOG] Hvis du limer inn noe her, kan du gi angripere adgang til Discord-kontoen din.
+[2022-05-05 01:01:39.690][CONSOLE:LOG] Stopp en hal!
+[2022-05-05 01:01:39.690][CONSOLE:LOG] Hvis noen har bedt deg om å kopiere / lime inn noe her, er sjansen 11/10 for at du blir lurt.
+[2022-05-05 01:01:39.690][CONSOLE:LOG] Hvis du limer inn noe her, kan du gi angripere adgang til Discord-kontoen din.
+[2022-05-05 01:01:40.692][CONSOLE:LOG] Stopp en hal!
+[2022-05-05 01:01:40.692][CONSOLE:LOG] Hvis noen har bedt deg om å kopiere / lime inn noe her, er sjansen 11/10 for at du blir lurt.
+[2022-05-05 01:01:40.693][CONSOLE:LOG] Hvis du limer inn noe her, kan du gi angripere adgang til Discord-kontoen din.
+[2022-05-05 01:01:41.693][CONSOLE:LOG] Stopp en hal!
+[2022-05-05 01:01:41.693][CONSOLE:LOG] Hvis noen har bedt deg om å kopiere / lime inn noe her, er sjansen 11/10 for at du blir lurt.
+[2022-05-05 01:01:41.694][CONSOLE:LOG] Hvis du limer inn noe her, kan du gi angripere adgang til Discord-kontoen din.
+[2022-05-05 01:01:42.695][CONSOLE:LOG] Stopp en hal!
+[2022-05-05 01:01:42.696][CONSOLE:LOG] Hvis noen har bedt deg om å kopiere / lime inn noe her, er sjansen 11/10 for at du blir lurt.
+[2022-05-05 01:01:42.696][CONSOLE:LOG] Hvis du limer inn noe her, kan du gi angripere adgang til Discord-kontoen din.
+[2022-05-05 01:01:42.697][CONSOLE:LOG] Med mindre du forstår nøyaktig hva du gjør, bør du lukke dette vinduet for å være sikker.
+[2022-05-05 01:01:42.705][CONSOLE:LOG] Hvis du forstår nøyaktig hva du gjør, bør du komme og jobbe med oss https://discord.com/jobs
+[2022-05-05 01:02:29.279][CONSOLE:LOG] [discord_protos.discord_users.v1.FrecencyUserSettings] Loading proto
+[2022-05-05 01:02:54.914][CONSOLE:LOG] [Routing/Utils] transitionTo - Transitioning to /channels/86004744966914048/125591732321517568
+[2022-05-05 01:02:56.155][CONSOLE:LOG] [Routing/Utils] transitionTo - Transitioning to /channels/86004744966914048/123136820409139200
+[2022-05-05 01:03:05.685][CONSOLE:LOG] [MessageActionCreators] Fetching messages for 813903954991120385 between undefined and undefined. jump=undefined
+[2022-05-05 01:03:05.759][CONSOLE:LOG] [Routing/Utils] transitionTo - Transitioning to /channels/86004744966914048/813903954991120385
+[2022-05-05 01:03:06.205][CONSOLE:LOG] [MessageActionCreators] Fetching messages for 813903993524715522 between undefined and undefined. jump=undefined
+[2022-05-05 01:03:06.310][CONSOLE:LOG] [Routing/Utils] transitionTo - Transitioning to /channels/86004744966914048/813903993524715522
+[2022-05-05 01:03:06.483][CONSOLE:LOG] [MessageActionCreators] Fetched 50 messages for 813903993524715522 isBefore:false isAfter:false
+[2022-05-05 01:03:06.727][CONSOLE:LOG] [Flux] Slow batch emitChanges took 240ms recentActions: ["LOAD_MESSAGES_SUCCESS"]
+[2022-05-05 01:03:06.727][CONSOLE:LOG] [Flux] Slow dispatch on LOAD_MESSAGES_SUCCESS: 243ms
+[2022-05-05 01:03:06.810][CONSOLE:LOG] [MessageActionCreators] Fetched 50 messages for 813903954991120385 isBefore:false isAfter:false
+[2022-05-05 01:03:57.359][CONSOLE:LOG] [MessageActionCreators] Fetching messages for 813903993524715522 between 865785349431492648 and undefined. jump=undefined
+[2022-05-05 01:03:57.589][CONSOLE:LOG] [MessageActionCreators] Fetched 50 messages for 813903993524715522 isBefore:true isAfter:false
+[2022-05-05 01:03:57.902][CONSOLE:LOG] [Flux] Slow batch emitChanges took 298ms recentActions: ["LOAD_MESSAGES_SUCCESS"]
+[2022-05-05 01:03:57.903][CONSOLE:LOG] [Flux] Slow dispatch on LOAD_MESSAGES_SUCCESS: 314ms
+[2022-05-05 01:04:25.738][CONSOLE:LOG] [Routing/Utils] transitionTo - Transitioning to /channels/86004744966914048/813903993524715522
+[2022-05-05 01:04:26.098][CONSOLE:LOG] [Routing/Utils] transitionTo - Transitioning to /channels/86004744966914048/813903954991120385
+[2022-05-05 01:04:37.230][CONSOLE:LOG] [MessageActionCreators] Fetching messages for 119918741516451840 between undefined and undefined. jump=undefined
+[2022-05-05 01:04:37.291][CONSOLE:LOG] [Routing/Utils] transitionTo - Transitioning to /channels/86004744966914048/119918741516451840
+[2022-05-05 01:04:37.459][CONSOLE:LOG] [MessageActionCreators] Fetched 50 messages for 119918741516451840 isBefore:false isAfter:false
+[2022-05-05 01:04:37.616][CONSOLE:LOG] [Flux] Slow batch emitChanges took 155ms recentActions: ["LOAD_MESSAGES_SUCCESS"]
+[2022-05-05 01:04:37.617][CONSOLE:LOG] [Flux] Slow dispatch on LOAD_MESSAGES_SUCCESS: 158ms
+[2022-05-05 01:05:41.244][CONSOLE:WARN] Window state not initialized window-1
+
+
+================= Starting Debug Log (2022-05-05 01:05:44.097) =================
+[2022-05-05 01:05:44.097][CONSOLE:LOG] [BetterDiscord] [DevTools] Enabled
+[2022-05-05 01:05:44.097][CONSOLE:LOG] [BetterDiscord] [Emotes] Enabled
+[2022-05-05 01:05:44.101][CONSOLE:ERROR] [Toasts] Unable to show toast
+
+ Cannot read property 'offsetWidth' of null
+TypeError: Cannot read property 'offsetWidth' of null
+    at Function.ensureContainer (<anonymous>:4:237387)
+    at Function.show (<anonymous>:4:236580)
+    at Object.loadEmoteData (<anonymous>:4:319328)
+    at Object.enabled (<anonymous>:4:316574)
+    at Object.enable (<anonymous>:4:312322)
+    at Object.initialize (<anonymous>:4:311681)
+    at Object.initialize (<anonymous>:4:316167)
+    at Object.startup (<anonymous>:4:367116)
+[2022-05-05 01:05:44.101][CONSOLE:LOG] [BetterDiscord] [Emotes] TwitchGlobal
+[2022-05-05 01:05:44.102][CONSOLE:LOG] [BetterDiscord] [PublicServers] Enabled
+[2022-05-05 01:05:44.104][CONSOLE:LOG] [BetterDiscord] [Startup] Loading Plugins
+[2022-05-05 01:05:44.119][CONSOLE:LOG] [BDFDB] (v2.3.4) Loading Library
+[2022-05-05 01:05:44.124][CONSOLE:ERROR] [Toasts] Unable to show toast
+
+ Cannot read property 'offsetWidth' of null
+TypeError: Cannot read property 'offsetWidth' of null
+    at Function.ensureContainer (<anonymous>:4:237387)
+    at Function.show (<anonymous>:4:236580)
+    at Object.startPlugin (<anonymous>:4:308355)
+    at Object.startAddon (<anonymous>:4:307812)
+    at Object.loadAddon (<anonymous>:4:268511)
+    at Object.loadAddon (<anonymous>:4:305909)
+    at Object.loadAllAddons (<anonymous>:4:270636)
+    at Object.initialize (<anonymous>:4:265083)
+    at Object.initialize (<anonymous>:4:305119)
+    at Object.startup (<anonymous>:4:367198)
+[2022-05-05 01:05:44.128][CONSOLE:ERROR] [Toasts] Unable to show toast
+
+ Cannot read property 'offsetWidth' of null
+TypeError: Cannot read property 'offsetWidth' of null
+    at Function.ensureContainer (<anonymous>:4:237387)
+    at Function.show (<anonymous>:4:236580)
+    at Object.startPlugin (<anonymous>:4:308355)
+    at Object.startAddon (<anonymous>:4:307812)
+    at Object.loadAddon (<anonymous>:4:268511)
+    at Object.loadAddon (<anonymous>:4:305909)
+    at Object.loadAllAddons (<anonymous>:4:270636)
+    at Object.initialize (<anonymous>:4:265083)
+    at Object.initialize (<anonymous>:4:305119)
+    at Object.startup (<anonymous>:4:367198)
+[2022-05-05 01:05:44.133][CONSOLE:ERROR] [Toasts] Unable to show toast
+
+ Cannot read property 'offsetWidth' of null
+TypeError: Cannot read property 'offsetWidth' of null
+    at Function.ensureContainer (<anonymous>:4:237387)
+    at Function.show (<anonymous>:4:236580)
+    at Object.startPlugin (<anonymous>:4:308355)
+    at Object.startAddon (<anonymous>:4:307812)
+    at Object.loadAddon (<anonymous>:4:268511)
+    at Object.loadAddon (<anonymous>:4:305909)
+    at Object.loadAllAddons (<anonymous>:4:270636)
+    at Object.initialize (<anonymous>:4:265083)
+    at Object.initialize (<anonymous>:4:305119)
+    at Object.startup (<anonymous>:4:367198)
+[2022-05-05 01:05:44.138][CONSOLE:ERROR] [Toasts] Unable to show toast
+
+ Cannot read property 'offsetWidth' of null
+TypeError: Cannot read property 'offsetWidth' of null
+    at Function.ensureContainer (<anonymous>:4:237387)
+    at Function.show (<anonymous>:4:236580)
+    at Object.startPlugin (<anonymous>:4:308355)
+    at Object.startAddon (<anonymous>:4:307812)
+    at Object.loadAddon (<anonymous>:4:268511)
+    at Object.loadAddon (<anonymous>:4:305909)
+    at Object.loadAllAddons (<anonymous>:4:270636)
+    at Object.initialize (<anonymous>:4:265083)
+    at Object.initialize (<anonymous>:4:305119)
+    at Object.startup (<anonymous>:4:367198)
+[2022-05-05 01:05:44.138][CONSOLE:LOG] [BetterDiscord] [PluginManager] Starting to watch plugin addons.
+[2022-05-05 01:05:44.138][CONSOLE:LOG] [BetterDiscord] [Startup] Loading Themes
+[2022-05-05 01:05:44.141][CONSOLE:ERROR] [Toasts] Unable to show toast
+
+ Cannot read property 'offsetWidth' of null
+TypeError: Cannot read property 'offsetWidth' of null
+    at Function.ensureContainer (<anonymous>:4:237387)
+    at Function.show (<anonymous>:4:236580)
+    at Object.addTheme (<anonymous>:4:311238)
+    at Object.startAddon (<anonymous>:4:311078)
+    at Object.loadAddon (<anonymous>:4:268511)
+    at Object.loadAddon (<anonymous>:4:310842)
+    at Object.loadAllAddons (<anonymous>:4:270636)
+    at Object.initialize (<anonymous>:4:265083)
+    at Object.initialize (<anonymous>:4:310045)
+    at Object.startup (<anonymous>:4:367256)
+[2022-05-05 01:05:44.145][CONSOLE:LOG] [BetterDiscord] [ThemeManager] Starting to watch theme addons.
+[2022-05-05 01:05:44.145][CONSOLE:LOG] [BetterDiscord] [Startup] Removing Loading Icon
+[2022-05-05 01:05:44.145][CONSOLE:LOG] [BetterDiscord] [Startup] Collecting Startup Errors
+[2022-05-05 01:05:44.587][CONSOLE:LOG] [Flux] Slow batch emitChanges took 417ms recentActions: ["I18N_LOAD_SUCCESS"]
+[2022-05-05 01:05:44.587][CONSOLE:LOG] [Flux] Slow dispatch on I18N_LOAD_SUCCESS: 418ms
+[2022-05-05 01:05:44.873][CONSOLE:LOG] [discord_protos.discord_users.v1.FrecencyUserSettings] Loading proto
+[2022-05-05 01:05:45.180][CONSOLE:LOG] [BetterDiscord] [Emotes] BTTV
+[2022-05-05 01:05:45.377][CONSOLE:INFO] [Spotify] WS Connected
+[2022-05-05 01:05:46.250][CONSOLE:LOG] [BDFDB] (v2.3.4) Finished loading Library
+[2022-05-05 01:05:46.269][CONSOLE:LOG] [PluginRepo] (v2.2.9) har startet
+[2022-05-05 01:05:46.301][CONSOLE:LOG] [SpotifyControls] (v1.2.5) har startet
+[2022-05-05 01:05:46.317][CONSOLE:ERROR] [SpotifyControls] (v1.2.5) Fatal Error: Failed to start Plugin! TypeError: Cannot read property 'SIZE_12' of undefined
+[2022-05-05 01:05:46.317][CONSOLE:LOG] [Translator] (v2.3.8) har startet
+[2022-05-05 01:05:46.463][CONSOLE:INFO] [Spotify] Devices updated for seancornell: [{"id":"da3fffef66a2153f9823fd6d7ef60a629f0a19cd","is_active":true,"is_private_session":false,"is_restricted":false,"name":"sean","type":"Smartphone","volume_percent":100}]
+[2022-05-05 01:05:46.465][CONSOLE:INFO] [Spotify] Profile updated for seancornell: isPremium = true
+[2022-05-05 01:05:46.471][CONSOLE:LOG] [BetterDiscord] [Emotes] FrankerFaceZ
+[2022-05-05 01:05:48.063][CONSOLE:LOG] [PluginRepo] (v2.2.9) Finished fetching Plugins
+[2022-05-05 01:05:52.652][CONSOLE:ERROR] Cannot read property 'SIZE_12' of undefined
+TypeError: Cannot read property 'SIZE_12' of undefined
+    at BDFDB_Modal.render (betterdiscord://plugins/0BDFDB.plugin.js:4049:66)
+    at qa (https://discord.com/assets/ea365fefdeb19052b67b.js:5870:489)
+    at Xa (https://discord.com/assets/ea365fefdeb19052b67b.js:5870:288)
+    at $s (https://discord.com/assets/ea365fefdeb19052b67b.js:5910:166)
+    at Gu (https://discord.com/assets/ea365fefdeb19052b67b.js:5900:748)
+    at wu (https://discord.com/assets/ea365fefdeb19052b67b.js:5900:676)
+    at Uu (https://discord.com/assets/ea365fefdeb19052b67b.js:5900:539)
+    at yu (https://discord.com/assets/ea365fefdeb19052b67b.js:5897:164)
+    at https://discord.com/assets/ea365fefdeb19052b67b.js:5842:340
+    at t.unstable_runWithPriority (https://discord.com/assets/ea365fefdeb19052b67b.js:6031:828)
+    at Ki (https://discord.com/assets/ea365fefdeb19052b67b.js:5842:117)
+    at qi (https://discord.com/assets/ea365fefdeb19052b67b.js:5842:285)
+    at Xi (https://discord.com/assets/ea365fefdeb19052b67b.js:5842:220)
+    at Ue (https://discord.com/assets/ea365fefdeb19052b67b.js:5919:198)
+    at en (https://discord.com/assets/ea365fefdeb19052b67b.js:5819:800)
+    at HTMLDivElement.r (https://discord.com/assets/4131c220fb102b01ee43.js:126:559)
+[2022-05-05 01:05:52.654][CONSOLE:ERROR] [BDFDB] (v2.3.4) Fatal Error: Could not create React Element! TypeError: Cannot read property 'SIZE_12' of undefined
+[2022-05-05 01:06:00.616][CONSOLE:INFO] [Spotify] Devices updated for seancornell: [{"id":"878d5388963665958dd7f3d17e0e045dd02a8772","is_active":false,"is_private_session":false,"is_restricted":false,"name":"arch","type":"Computer","volume_percent":100},{"id":"da3fffef66a2153f9823fd6d7ef60a629f0a19cd","is_active":true,"is_private_session":false,"is_restricted":false,"name":"sean","type":"Smartphone","volume_percent":100}]
+[2022-05-05 01:06:01.764][CONSOLE:INFO] [RunningGameStore] games []
+[2022-05-05 01:06:03.618][CONSOLE:INFO] [Spotify] Devices updated for seancornell: [{"id":"878d5388963665958dd7f3d17e0e045dd02a8772","is_active":false,"is_private_session":false,"is_restricted":false,"name":"arch","type":"Computer","volume_percent":100},{"id":"da3fffef66a2153f9823fd6d7ef60a629f0a19cd","is_active":true,"is_private_session":false,"is_restricted":false,"name":"sean","type":"Smartphone","volume_percent":100}]
+[2022-05-05 01:06:10.096][CONSOLE:INFO] [RTCLatencyTestManager] RTC cached preferred region is us-west
+[2022-05-05 01:06:18.104][CONSOLE:INFO] [Spotify] Devices updated for seancornell: [{"id":"da3fffef66a2153f9823fd6d7ef60a629f0a19cd","is_active":true,"is_private_session":false,"is_restricted":false,"name":"sean","type":"Smartphone","volume_percent":100}]
+[2022-05-05 01:06:20.839][CONSOLE:ERROR] Cannot read property 'CUSTOM' of undefined
+TypeError: Cannot read property 'CUSTOM' of undefined
+    at SpotifyControls.render (betterdiscord://plugins/SpotifyControls.plugin.js:204:62)
+    at qa (https://discord.com/assets/ea365fefdeb19052b67b.js:5870:489)
+    at Xa (https://discord.com/assets/ea365fefdeb19052b67b.js:5870:288)
+    at $s (https://discord.com/assets/ea365fefdeb19052b67b.js:5910:166)
+    at Gu (https://discord.com/assets/ea365fefdeb19052b67b.js:5900:748)
+    at wu (https://discord.com/assets/ea365fefdeb19052b67b.js:5900:676)
+    at Uu (https://discord.com/assets/ea365fefdeb19052b67b.js:5900:539)
+    at yu (https://discord.com/assets/ea365fefdeb19052b67b.js:5897:164)
+    at https://discord.com/assets/ea365fefdeb19052b67b.js:5842:340
+    at t.unstable_runWithPriority (https://discord.com/assets/ea365fefdeb19052b67b.js:6031:828)
+    at Ki (https://discord.com/assets/ea365fefdeb19052b67b.js:5842:117)
+    at qi (https://discord.com/assets/ea365fefdeb19052b67b.js:5842:285)
+    at Xi (https://discord.com/assets/ea365fefdeb19052b67b.js:5842:220)
+    at Ue (https://discord.com/assets/ea365fefdeb19052b67b.js:5919:198)
+    at en (https://discord.com/assets/ea365fefdeb19052b67b.js:5819:800)
+    at HTMLDivElement.r (https://discord.com/assets/4131c220fb102b01ee43.js:126:559)
+[2022-05-05 01:06:20.896][CONSOLE:ERROR] [BDFDB] (v2.3.4) Fatal Error: Could not create React Element! TypeError: Cannot read property 'CUSTOM' of undefined
+[2022-05-05 01:06:21.784][CONSOLE:INFO] [RunningGameStore] games []
+[2022-05-05 01:06:21.952][CONSOLE:LOG] [MessageActionCreators] Fetching messages for 855597961688776744 between undefined and undefined. jump=undefined
+[2022-05-05 01:06:22.102][CONSOLE:LOG] [MessageActionCreators] Fetched 50 messages for 855597961688776744 isBefore:false isAfter:false
+[2022-05-05 01:07:09.835][CONSOLE:LOG] [MessageActionCreators] Fetching messages for 918233631841992725 between undefined and undefined. jump=undefined
+[2022-05-05 01:07:09.907][CONSOLE:LOG] [Routing/Utils] transitionTo - Transitioning to /channels/719387672573116496/918233631841992725
+[2022-05-05 01:07:10.150][CONSOLE:LOG] [MessageActionCreators] Fetched 50 messages for 918233631841992725 isBefore:false isAfter:false
+[2022-05-05 01:07:10.291][CONSOLE:LOG] [Flux] Slow batch emitChanges took 139ms recentActions: ["LOAD_MESSAGES_SUCCESS"]
+[2022-05-05 01:07:10.291][CONSOLE:LOG] [Flux] Slow dispatch on LOAD_MESSAGES_SUCCESS: 141ms
+[2022-05-05 01:07:38.724][CONSOLE:LOG] [MessageActionCreators] Fetching messages for 971567535067660288 between undefined and undefined. jump=undefined
+[2022-05-05 01:07:38.762][CONSOLE:LOG] [Routing/Utils] transitionTo - Transitioning to /channels/719387672573116496/971567535067660288
+[2022-05-05 01:07:38.948][CONSOLE:LOG] [MessageActionCreators] Fetched 8 messages for 971567535067660288 isBefore:false isAfter:false
+[2022-05-05 01:07:39.090][CONSOLE:LOG] [Flux] Slow batch emitChanges took 140ms recentActions: ["LOAD_MESSAGES_SUCCESS"]
+[2022-05-05 01:07:39.090][CONSOLE:LOG] [Flux] Slow dispatch on LOAD_MESSAGES_SUCCESS: 141ms
+[2022-05-05 01:07:43.826][CONSOLE:LOG] [MessageActionCreators] Fetching messages for 971471650459619348 between undefined and undefined. jump=undefined
+[2022-05-05 01:07:43.921][CONSOLE:LOG] [Routing/Utils] transitionTo - Transitioning to /channels/719387672573116496/971471650459619348
+[2022-05-05 01:07:44.013][CONSOLE:LOG] [MessageActionCreators] Fetched 47 messages for 971471650459619348 isBefore:false isAfter:false
+[2022-05-05 01:07:44.141][CONSOLE:LOG] [Flux] Slow batch emitChanges took 126ms recentActions: ["LOAD_MESSAGES_SUCCESS"]
+[2022-05-05 01:07:44.142][CONSOLE:LOG] [Flux] Slow dispatch on LOAD_MESSAGES_SUCCESS: 128ms
+[2022-05-05 01:07:50.189][CONSOLE:LOG] [MessageActionCreators] Fetching messages for 842054922623123496 between undefined and undefined. jump=undefined
+[2022-05-05 01:07:50.277][CONSOLE:LOG] [Routing/Utils] transitionTo - Transitioning to /channels/719387672573116496/842054922623123496
+[2022-05-05 01:07:50.390][CONSOLE:LOG] [MessageActionCreators] Fetched 50 messages for 842054922623123496 isBefore:false isAfter:false
+[2022-05-05 01:07:50.578][CONSOLE:LOG] [Flux] Slow batch emitChanges took 186ms recentActions: ["LOAD_MESSAGES_SUCCESS"]
+[2022-05-05 01:07:50.579][CONSOLE:LOG] [Flux] Slow dispatch on LOAD_MESSAGES_SUCCESS: 189ms
+[2022-05-05 01:07:50.615][CONSOLE:LOG] [MessageActionCreators] Fetching messages for 883051077807796224 between undefined and undefined. jump=undefined
+[2022-05-05 01:07:50.641][CONSOLE:LOG] [Routing/Utils] transitionTo - Transitioning to /channels/719387672573116496/883051077807796224
+[2022-05-05 01:07:50.859][CONSOLE:LOG] [MessageActionCreators] Fetched 50 messages for 883051077807796224 isBefore:false isAfter:false
+[2022-05-05 01:07:51.047][CONSOLE:LOG] [Flux] Slow batch emitChanges took 186ms recentActions: ["LOAD_MESSAGES_SUCCESS"]
+[2022-05-05 01:07:51.047][CONSOLE:LOG] [Flux] Slow dispatch on LOAD_MESSAGES_SUCCESS: 188ms
+[2022-05-05 01:07:54.785][CONSOLE:LOG] [MessageActionCreators] Fetching messages for 883051077807796224 between 971387546837856256 and undefined. jump=undefined
+[2022-05-05 01:07:55.015][CONSOLE:LOG] [MessageActionCreators] Fetched 50 messages for 883051077807796224 isBefore:true isAfter:false
+[2022-05-05 01:07:55.225][CONSOLE:LOG] [Flux] Slow batch emitChanges took 202ms recentActions: ["LOAD_MESSAGES_SUCCESS"]
+[2022-05-05 01:07:55.225][CONSOLE:LOG] [Flux] Slow dispatch on LOAD_MESSAGES_SUCCESS: 210ms
+[2022-05-05 01:08:02.202][CONSOLE:LOG] [Routing/Utils] transitionTo - Transitioning to /channels/719387672573116496/918233631841992725
+[2022-05-05 01:11:44.441][CONSOLE:LOG] [Routing/Utils] transitionTo - Transitioning to /channels/719387672573116496/918233631841992725
+[2022-05-05 01:12:11.278][CONSOLE:WARN] [ComponentDispatchUtils] ComponentDispatch.subscribe: Attempting to add a duplicate listener POPOUT_CLOSE
+[2022-05-05 01:12:19.878][CONSOLE:LOG] [Flux] Slow batch emitChanges took 139ms recentActions: []
+[2022-05-05 01:13:33.481][CONSOLE:WARN] react-spring: The "interpolate" function is deprecated in v10 (use "to" instead)
+[2022-05-05 01:15:33.863][CONSOLE:INFO] [Spotify] Devices updated for seancornell: []
+[2022-05-05 01:17:49.939][CONSOLE:INFO] [Spotify] Devices updated for seancornell: [{"id":"4d61ed083d53930c00b817cf7874d0e7d7d307a5","is_active":false,"is_private_session":false,"is_restricted":false,"name":"bigmac","type":"Computer","volume_percent":100}]
+[2022-05-05 01:27:50.186][CONSOLE:INFO] [Spotify] Updated account access token: seancornell
+[2022-05-05 01:27:50.346][CONSOLE:INFO] [Spotify] Updated account access token: seancornell
+[2022-05-05 01:27:50.438][CONSOLE:INFO] [Spotify] Devices updated for seancornell: []
+[2022-05-05 01:32:09.731][CONSOLE:LOG] [MessageStore] Message was missing an author!
+[2022-05-05 01:53:51.700][CONSOLE:INFO] [Spotify] Devices updated for seancornell: [{"id":"da3fffef66a2153f9823fd6d7ef60a629f0a19cd","is_active":false,"is_private_session":false,"is_restricted":false,"name":"sean","type":"Smartphone","volume_percent":100}]
+[2022-05-05 01:54:43.788][CONSOLE:INFO] [Spotify] Devices updated for seancornell: []
+[2022-05-05 01:56:41.414][CONSOLE:LOG] [MessageStore] Message was missing an author!
+
+
+================= Starting Debug Log (2022-05-11 02:18:59.841) =================
+[2022-05-11 02:18:59.841][CONSOLE:LOG] [BetterDiscord] [DevTools] Enabled
+[2022-05-11 02:18:59.841][CONSOLE:LOG] [BetterDiscord] [Emotes] Enabled
+[2022-05-11 02:18:59.846][CONSOLE:ERROR] [Toasts] Unable to show toast
+
+ Cannot read property 'offsetWidth' of null
+TypeError: Cannot read property 'offsetWidth' of null
+    at Function.ensureContainer (<anonymous>:4:237387)
+    at Function.show (<anonymous>:4:236580)
+    at Object.loadEmoteData (<anonymous>:4:319328)
+    at Object.enabled (<anonymous>:4:316574)
+    at Object.enable (<anonymous>:4:312322)
+    at Object.initialize (<anonymous>:4:311681)
+    at Object.initialize (<anonymous>:4:316167)
+    at Object.startup (<anonymous>:4:367116)
+[2022-05-11 02:18:59.846][CONSOLE:LOG] [BetterDiscord] [Emotes] TwitchGlobal
+[2022-05-11 02:18:59.846][CONSOLE:LOG] [BetterDiscord] [PublicServers] Enabled
+[2022-05-11 02:18:59.848][CONSOLE:LOG] [BetterDiscord] [Startup] Loading Plugins
+[2022-05-11 02:18:59.864][CONSOLE:LOG] [BDFDB] (v2.3.4) Loading Library
+[2022-05-11 02:18:59.869][CONSOLE:ERROR] [Toasts] Unable to show toast
+
+ Cannot read property 'offsetWidth' of null
+TypeError: Cannot read property 'offsetWidth' of null
+    at Function.ensureContainer (<anonymous>:4:237387)
+    at Function.show (<anonymous>:4:236580)
+    at Object.startPlugin (<anonymous>:4:308355)
+    at Object.startAddon (<anonymous>:4:307812)
+    at Object.loadAddon (<anonymous>:4:268511)
+    at Object.loadAddon (<anonymous>:4:305909)
+    at Object.loadAllAddons (<anonymous>:4:270636)
+    at Object.initialize (<anonymous>:4:265083)
+    at Object.initialize (<anonymous>:4:305119)
+    at Object.startup (<anonymous>:4:367198)
+[2022-05-11 02:18:59.874][CONSOLE:ERROR] [Toasts] Unable to show toast
+
+ Cannot read property 'offsetWidth' of null
+TypeError: Cannot read property 'offsetWidth' of null
+    at Function.ensureContainer (<anonymous>:4:237387)
+    at Function.show (<anonymous>:4:236580)
+    at Object.startPlugin (<anonymous>:4:308355)
+    at Object.startAddon (<anonymous>:4:307812)
+    at Object.loadAddon (<anonymous>:4:268511)
+    at Object.loadAddon (<anonymous>:4:305909)
+    at Object.loadAllAddons (<anonymous>:4:270636)
+    at Object.initialize (<anonymous>:4:265083)
+    at Object.initialize (<anonymous>:4:305119)
+    at Object.startup (<anonymous>:4:367198)
+[2022-05-11 02:18:59.878][CONSOLE:ERROR] [Toasts] Unable to show toast
+
+ Cannot read property 'offsetWidth' of null
+TypeError: Cannot read property 'offsetWidth' of null
+    at Function.ensureContainer (<anonymous>:4:237387)
+    at Function.show (<anonymous>:4:236580)
+    at Object.startPlugin (<anonymous>:4:308355)
+    at Object.startAddon (<anonymous>:4:307812)
+    at Object.loadAddon (<anonymous>:4:268511)
+    at Object.loadAddon (<anonymous>:4:305909)
+    at Object.loadAllAddons (<anonymous>:4:270636)
+    at Object.initialize (<anonymous>:4:265083)
+    at Object.initialize (<anonymous>:4:305119)
+    at Object.startup (<anonymous>:4:367198)
+[2022-05-11 02:18:59.884][CONSOLE:ERROR] [Toasts] Unable to show toast
+
+ Cannot read property 'offsetWidth' of null
+TypeError: Cannot read property 'offsetWidth' of null
+    at Function.ensureContainer (<anonymous>:4:237387)
+    at Function.show (<anonymous>:4:236580)
+    at Object.startPlugin (<anonymous>:4:308355)
+    at Object.startAddon (<anonymous>:4:307812)
+    at Object.loadAddon (<anonymous>:4:268511)
+    at Object.loadAddon (<anonymous>:4:305909)
+    at Object.loadAllAddons (<anonymous>:4:270636)
+    at Object.initialize (<anonymous>:4:265083)
+    at Object.initialize (<anonymous>:4:305119)
+    at Object.startup (<anonymous>:4:367198)
+[2022-05-11 02:18:59.884][CONSOLE:LOG] [BetterDiscord] [PluginManager] Starting to watch plugin addons.
+[2022-05-11 02:18:59.884][CONSOLE:LOG] [BetterDiscord] [Startup] Loading Themes
+[2022-05-11 02:18:59.888][CONSOLE:ERROR] [Toasts] Unable to show toast
+
+ Cannot read property 'offsetWidth' of null
+TypeError: Cannot read property 'offsetWidth' of null
+    at Function.ensureContainer (<anonymous>:4:237387)
+    at Function.show (<anonymous>:4:236580)
+    at Object.addTheme (<anonymous>:4:311238)
+    at Object.startAddon (<anonymous>:4:311078)
+    at Object.loadAddon (<anonymous>:4:268511)
+    at Object.loadAddon (<anonymous>:4:310842)
+    at Object.loadAllAddons (<anonymous>:4:270636)
+    at Object.initialize (<anonymous>:4:265083)
+    at Object.initialize (<anonymous>:4:310045)
+    at Object.startup (<anonymous>:4:367256)
+[2022-05-11 02:18:59.892][CONSOLE:LOG] [BetterDiscord] [ThemeManager] Starting to watch theme addons.
+[2022-05-11 02:18:59.892][CONSOLE:LOG] [BetterDiscord] [Startup] Removing Loading Icon
+[2022-05-11 02:18:59.892][CONSOLE:LOG] [BetterDiscord] [Startup] Collecting Startup Errors
+[2022-05-11 02:19:00.376][CONSOLE:LOG] [Flux] Slow batch emitChanges took 240ms recentActions: ["I18N_LOAD_SUCCESS"]
+[2022-05-11 02:19:00.376][CONSOLE:LOG] [Flux] Slow dispatch on I18N_LOAD_SUCCESS: 242ms
+[2022-05-11 02:19:00.485][CONSOLE:LOG] [Flux] Slow batch emitChanges took 102ms recentActions: ["CHANNEL_SELECT"]
+[2022-05-11 02:19:00.486][CONSOLE:LOG] [Flux] Slow dispatch on CHANNEL_SELECT: 110ms
+[2022-05-11 02:19:00.868][CONSOLE:LOG] [BetterDiscord] [Emotes] BTTV
+[2022-05-11 02:19:01.573][CONSOLE:LOG] [MessageActionCreators] Fetching messages for 855597961688776744 between undefined and undefined. jump=undefined
+[2022-05-11 02:19:01.901][CONSOLE:LOG] [BetterDiscord] [Emotes] FrankerFaceZ
+[2022-05-11 02:19:02.098][CONSOLE:LOG] [MessageActionCreators] Fetched 50 messages for 855597961688776744 isBefore:false isAfter:false
+[2022-05-11 02:19:04.154][CONSOLE:LOG] [BDFDB] (v2.3.4) Finished loading Library
+[2022-05-11 02:19:04.173][CONSOLE:LOG] [PluginRepo] (v2.2.9) har startet
+[2022-05-11 02:19:04.202][CONSOLE:LOG] [SpotifyControls] (v1.2.5) har startet
+[2022-05-11 02:19:04.272][CONSOLE:LOG] [Translator] (v2.3.8) har startet
+[2022-05-11 02:19:06.350][CONSOLE:LOG] [discord_protos.discord_users.v1.FrecencyUserSettings] Loading proto
+[2022-05-11 02:19:21.379][CONSOLE:INFO] [RTCLatencyTestManager] RTC region latency test completed:  ["santa-clara","us-west","seattle","us-south","us-central"]
+[2022-05-11 02:19:21.615][CONSOLE:LOG] [PluginRepo] (v2.2.9) Finished fetching Plugins
+[2022-05-11 02:20:50.582][CONSOLE:WARN] [GatewaySocket] [WS CLOSED] (true, 1000, ) retrying in 1.68 seconds.
+[2022-05-11 02:20:52.262][CONSOLE:INFO] [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zlib-stream
+[2022-05-11 02:21:00.678][CONSOLE:INFO] [GatewaySocket] [CONNECTED] wss://gateway.discord.gg/?encoding=etf&v=9&compress=zlib-stream in 8414 ms
+[2022-05-11 02:21:00.679][CONSOLE:INFO] [GatewaySocket] [RESUME] resuming session be4e3b184997a3973e98644dc354b5ef, seq: 222
+[2022-05-11 02:21:00.696][CONSOLE:INFO] [GatewaySocket] [HELLO] via ["gateway-prd-main-5nk6",{"micros":0.0}], heartbeat interval: 41250, took 8433 ms
+[2022-05-11 02:21:01.602][CONSOLE:INFO] [GatewaySocket] [RESUMED] took 9340ms, via ["gateway-prd-main-5nk6",{"micros":2414,"calls":["discord-sessions-blue-prd-2-62",{"micros":164}]}], replayed 34 events, new seq: 256
+[2022-05-11 02:21:53.664][CONSOLE:WARN] [GatewaySocket] [ACK TIMEOUT] reconnecting in 2.03 seconds.
+[2022-05-11 02:21:55.693][CONSOLE:INFO] [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zlib-stream
+[2022-05-11 02:22:15.697][CONSOLE:WARN] [GatewaySocket] [WS CLOSED] (false, 0, The connection timed out after 20000 ms - did not receive OP_HELLO in time.) retrying in 4.20 seconds.
+[2022-05-11 02:22:19.898][CONSOLE:INFO] [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zlib-stream
+[2022-05-11 02:22:39.901][CONSOLE:WARN] [GatewaySocket] [WS CLOSED] (false, 0, The connection timed out after 20000 ms - did not receive OP_HELLO in time.) retrying in 4.42 seconds.
+[2022-05-11 02:22:44.319][CONSOLE:INFO] [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zlib-stream
+[2022-05-11 02:23:04.320][CONSOLE:WARN] [GatewaySocket] [WS CLOSED] (false, 0, The connection timed out after 20000 ms - did not receive OP_HELLO in time.) retrying in 10.11 seconds.
+[2022-05-11 02:23:14.435][CONSOLE:INFO] [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zlib-stream

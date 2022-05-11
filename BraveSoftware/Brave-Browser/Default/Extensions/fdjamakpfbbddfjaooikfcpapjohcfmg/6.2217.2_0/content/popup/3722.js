@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_dashlane_popup=self.webpackChunk_dashlane_popup||[]).push([[3722],{63722:(e,t)=>{Object.defineProperty(t,"__esModule",{value:!0}),t.default=function(e,t,a,n){return p[e]};var p={lastWeek:"'të' eeee 'e shkuar në' p",yesterday:"'dje në' p",today:"'sot në' p",tomorrow:"'nesër në' p",nextWeek:"eeee 'at' p",other:"P"};e.exports=t.default}}]);

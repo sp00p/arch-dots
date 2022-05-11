@@ -1,0 +1,14 @@
+{
+    "version": "1.5.3",
+    "emoteVersion": "v1.5.3",
+    "addonlistControls": {
+        "plugin": {
+            "view": "list"
+        }
+    },
+    "drawerStates": {
+        "settings": {
+            "developer": true
+        }
+    }
+}

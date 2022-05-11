@@ -1,0 +1,17 @@
+[2022-05-04 15:32:49.191] [error] Captcha required error response: bc38c8a2-5311-4e8c-9dfc-49e99f6df417
+[2022-05-04 15:32:54.260] [error] {
+  response: {
+    message: 'The model state is invalid.',
+    validationErrors: { '': [ "Email 'seancornell11@gmail.com' is already taken." ] },
+    exceptionMessage: null,
+    exceptionStackTrace: null,
+    innerExceptionMessage: null,
+    object: 'error'
+  },
+  message: 'The model state is invalid.',
+  captchaRequired: false,
+  statusCode: 400
+}
+[2022-05-04 15:32:54.269] [error] Received API exception: [object Object]
+[2022-05-04 15:33:04.262] [info]  search indexing: 0.2394654ms
+[2022-05-04 15:33:04.511] [info]  search indexing: 0.0137764ms
