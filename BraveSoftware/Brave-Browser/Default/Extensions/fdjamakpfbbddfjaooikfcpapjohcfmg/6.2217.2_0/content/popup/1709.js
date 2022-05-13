@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_dashlane_popup=self.webpackChunk_dashlane_popup||[]).push([[1709],{61709:(e,p)=>{Object.defineProperty(p,"__esModule",{value:!0}),p.default=function(e,p,a,u){return t[e]};var t={lastWeek:"'પાછલા' eeee p",yesterday:"'ગઈકાલે' p",today:"'આજે' p",tomorrow:"'આવતીકાલે' p",nextWeek:"eeee p",other:"P"};e.exports=p.default}}]);

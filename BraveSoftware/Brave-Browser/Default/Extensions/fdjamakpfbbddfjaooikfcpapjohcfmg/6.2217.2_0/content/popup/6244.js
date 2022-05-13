@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_dashlane_popup=self.webpackChunk_dashlane_popup||[]).push([[6244],{46244:(e,p)=>{Object.defineProperty(p,"__esModule",{value:!0}),p.default=function(e,p,a,u){return t[e]};var t={lastWeek:"'গত' eeee 'সময়' p",yesterday:"'গতকাল' 'সময়' p",today:"'আজ' 'সময়' p",tomorrow:"'আগামীকাল' 'সময়' p",nextWeek:"eeee 'সময়' p",other:"P"};e.exports=p.default}}]);

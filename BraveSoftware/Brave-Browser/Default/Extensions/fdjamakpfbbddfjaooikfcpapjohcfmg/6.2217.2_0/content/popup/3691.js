@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_dashlane_popup=self.webpackChunk_dashlane_popup||[]).push([[3691],{93691:(e,a)=>{Object.defineProperty(a,"__esModule",{value:!0}),a.default=function(e,a,p,l){return t[e]};var t={lastWeek:"eeee 'trecută la' p",yesterday:"'ieri la' p",today:"'astăzi la' p",tomorrow:"'mâine la' p",nextWeek:"eeee 'viitoare la' p",other:"P"};e.exports=a.default}}]);
